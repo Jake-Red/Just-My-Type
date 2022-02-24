@@ -1,0 +1,22 @@
+.keys-row {
+    margin-top: 40px;
+    padding: 10px 0;
+  }
+
+  #yellow-block{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 180px;
+    width: 20px;
+    height: 35px;
+    background-color: yellow;
+    padding: 0;
+  }
+  #sentence{
+    top: 6px;
+    font-size: 35px;
+  }
+#target-letter{
+    font-size: 25px;
+    color: red;
+} 
